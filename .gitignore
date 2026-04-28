@@ -1,0 +1,5 @@
+node_modules/
+.env
+smart_contracts/artifacts/
+smart_contracts/cache/
+client/dist/
